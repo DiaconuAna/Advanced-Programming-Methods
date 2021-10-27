@@ -1,8 +1,7 @@
 # Advanced-Programming-Methods
 
-These are my assignments for Methods of Advanced Programming
 
-  • [Laboratory 1](https://github.com/913-Diaconu-Ana/MAP--Assignment1)
-  
-  ■ [Toy Interpreter - Part 1](https://github.com/913-Diaconu-Ana/ToyInterpretor)
+  [Course notes](https://github.com/913-Diaconu-Ana/Advanced-Programming-Methods/blob/main/Notes.md)\
+  [Laboratory 1](https://github.com/913-Diaconu-Ana/MAP--Assignment1)\
+  [Toy Interpreter - wip](https://github.com/913-Diaconu-Ana/ToyInterpretor)
 
